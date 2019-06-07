@@ -26,9 +26,10 @@ For successful completion of this course, students will require the computer sys
 <b>Software Requirements</b><br><ul><li>Operating system: Windows, Linux, MAC</li><li>Browser: Any</li><li>Code Editor: Atom IDE</li><li>Node.js LTS 8.9.1</li></ul>
 
 ## Related Products
-* [AWS Certified DevOps Engineer - Domain 2 [Video]](https://www.packtpub.com/virtualization-and-cloud/aws-certified-devops-engineer-domain-2-video?utm_source=github&utm_medium=repository&utm_campaign=9781789136104)
+
+* [Cracking the Coding Interview: Concurrency and Parallelism [Video]](https://www2.packtpub.com/application-development/cracking-coding-interview-concurrency-and-parallelism-video)
 
 * [AWS Certified DevOps Engineer - Domain 3 [Video]](https://www.packtpub.com/virtualization-and-cloud/aws-certified-devops-engineer-domain-3-video-0?utm_source=github&utm_medium=repository&utm_campaign=9781789340396)
 
-* [AWS Certified DevOps Engineer - Domain 4 [Video]](https://www.packtpub.com/virtualization-and-cloud/aws-certified-devops-engineer-domain-4-video?utm_source=github&utm_medium=repository&utm_campaign=9781789343564)
+* [Ethical Hacking for the Everyday Developer [Video]](https://www2.packtpub.com/networking-and-servers/ethical-hacking-everyday-developer-video)
 
