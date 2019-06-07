@@ -1,5 +1,5 @@
 # Cracking the Coding Interview: Object Oriented Programming [Video]
-This is the code repository for [Cracking the Coding Interview: Object Oriented Programming]](https://www.packtpub.com/application-development/cracking-coding-interview-object-oriented-programming-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Cracking the Coding Interview: Object Oriented Programming]](https://www2.packtpub.com/application-development/cracking-coding-interview-object-oriented-programming-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Are you afraid of your interview and want to practice before the final day? This course will be a perfect guide for you and will help you nail questions in your coding interview related to the Object Oriented Programming (OOP) paradigm. We have adopted a language-agnostic approach for our course, with JavaScript as our main language. 
 This course sets out to provide developers with the necessary tools to ace their next interview by providing insights into advanced JavaScript concepts, using one of the best-known programming paradigms over the last 40 years in software development. This course will strengthen your foundations in that area and supply practical questions that will serve as a teaser for the kind of questions expected in a coding interview. You will learn how OOP has advantages which incorporate modularity and reusability. 
@@ -21,7 +21,7 @@ Atom IDE, Latest Version
 Node.js LTS 8.9.1 Installed
 
 ## Related Products
-* [Cracking the Coding Interview: Concurrency and Parallelism [Video]](https://www.packtpub.com/application-development/cracking-coding-interview-concurrency-and-parallelism-video)
+* [Cracking the Coding Interview: Concurrency and Parallelism [Video]](https://www2.packtpub.com/application-development/cracking-coding-interview-concurrency-and-parallelism-video)
 
 * [A JavaScript War Card Game Project from Scratch [Video]](https://www.packtpub.com/application-development/javascript-war-card-game-project-scratch-video?utm_source=github&utm_medium=repository&utm_campaign=9781789809459)
 
